@@ -1,0 +1,12 @@
+Used website for creating website of Gym.
+>>>> Pixabay
+>>> google fonts
+-https://fonts.google.com/ choosed font is ballu bhai
+
+
+
+
+>>>>>>>>>>    Learning       <<<<<<<<<<<<<
+to make margin aurt - you should have block element(like mid is display: block) and have width as well
+
+
